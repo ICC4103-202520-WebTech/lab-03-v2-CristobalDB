@@ -1,0 +1,32 @@
+Room:
+
+1. As an administrator, I want to create and edit room types (Standard, Deluxe)
+with capacity and amenities so that guests can compare options accurately.
+
+2.As an administrator, I want to set room status (available, out-of-service, occupied) 
+so that inventory reflects real availability.
+
+Guest:
+
+1. As a guest, I want to create an account with email and password so that I can manage 
+my reservations.
+
+Reservation:
+
+1. As a guest, I want to search availability by dates, number of guests, 
+and room type so that I can find suitable rooms.
+
+Service:
+
+1. As an administrator, I want to categorize and price services so that 
+charges are itemized correctly on invoices.
+
+ServiceUsage:
+
+1. As a front desk agent, I want to perform check-in (verify ID, take deposit, issue keys)
+and mark the room as occupied so that the stay officially starts.
+
+6. Invoice
+
+As a guest, I want to choose a payment method (card, cash, mixed) and receive a receipt 
+so that I can complete payment conveniently.
